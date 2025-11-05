@@ -16,4 +16,99 @@ jobs:
       - name: Build and push
         run: |
           docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/mi-imagen:latest .
-          docker push ${{ secrets.DOCKERHUB_USERNAME }}/mi-imagen:latest
+          docker push ${{ secrets.DOCKERHUB_USERNAME }}/mi-imagen:latest	
+Running
+t2.micro
+	
+Initializing
+	
+View alarms
+us-east-1b
+	
+ec2-54-167-72-234.compute-1.amazonaws.com
+	
+54.167.72.234
+	
+–
+	
+–
+	
+disabled
+	
+launch-wizard-3
+	
+apikey
+	
+2025/11/05 10:43 GMT-5
+	
+Linux/UNIX
+	
+false
+	
+–
+	
+ins4
+i-01e1bcd35d19fa828
+	
+Running
+t2.micro
+	
+Initializing
+	
+View alarms
+us-east-1b
+	
+ec2-50-17-173-41.compute-1.amazonaws.com
+	
+50.17.173.41
+	
+–
+	
+–
+	
+disabled
+	
+launch-wizard-5
+	
+apikey
+	
+2025/11/05 10:45 GMT-5
+	
+Linux/UNIX
+	
+false
+	
+–
+	
+AS1lider
+i-041497b8e0d4a2c01
+	
+Running
+t2.micro
+	
+2/2 checks passed
+	
+View alarms
+us-east-1b
+	
+ec2-3-88-103-195.compute-1.amazonaws.com
+	
+3.88.103.195
+	
+–
+	
+–
+	
+disabled
+	
+launch-wizard-2
+	
+apikey
+	
+2025/11/05 10:41 GMT-5
+	
+Linux/UNIX
+	
+false
+	
+–
